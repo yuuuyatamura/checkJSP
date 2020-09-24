@@ -4,6 +4,7 @@ import java.util.Date;
 
 import lombok.Data;
 
+//自動でgetterとかsetterとかを生成してくれる
 @Data
 public class User{
 	private String userId;//ユーザーID

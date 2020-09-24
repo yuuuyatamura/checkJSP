@@ -3,6 +3,7 @@ body{
 }
 
 .sidebar{
+	position: fixed;
 	display: block;
 	top: 50px;
 	bottom: 0px;
@@ -15,6 +16,7 @@ body{
 	display: block;
 	top: 0px;
 	bottom: 0px;
+	position: fixed;
 }
 
 h1{
